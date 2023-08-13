@@ -54,4 +54,4 @@ Sadly the email suffix method can't be used to put a component in the UP state. 
 A way to explore is to set up a webhook hitting statuspage [API](https://developer.statuspage.io/#operation/patchPagesPageIdComponentsComponentId).  
 The free tier also offer 2 metrics, so API response time and/or traffic can be shown there.
 
-[^1]: Of course the address should be kept private and can be regenarated as needed.
+[^1]: Of course the address should be kept private and can be regenerated as needed.
