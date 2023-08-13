@@ -1,7 +1,7 @@
 # Set up a free semi-automated status page
 [![Static Badge](https://img.shields.io/badge/live_example-chartreuse)](https://jarm.statuspage.io/)  
 
-For this we'll use [GCP](cloud.google.com) for monitoring and [Atlassian status page](statuspage.io).  
+For this we'll use [GCP](https://cloud.google.com) for monitoring and [Atlassian status page](https://statuspage.io).  
 This is the software used by [PyPi](https://status.python.org/) and [Dropbox](https://status.dropbox.com/) among others !
 
 
